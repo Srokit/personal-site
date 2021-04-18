@@ -20,11 +20,6 @@ const skills = [
     category: ['Tools', 'Languages'],
   },
   {
-    title: 'ElasticSearch',
-    competency: 1,
-    category: ['Web Development', 'Databases'],
-  },
-  {
     title: 'SQL',
     competency: 2,
     category: ['Web Development', 'Databases', 'Languages'],
@@ -35,7 +30,12 @@ const skills = [
     category: ['Web Development', 'Python'],
   },
   {
-    title: 'HTML + SASS/SCSS/CSS',
+    title: 'HTML/CSS',
+    competency: 3,
+    category: ['Web Development', 'Languages'],
+  },
+  {
+    title: 'SCSS',
     competency: 3,
     category: ['Web Development', 'Languages'],
   },
@@ -47,6 +47,36 @@ const skills = [
   {
     title: 'C++',
     competency: 5,
+    category: ['Languages'],
+  },
+  {
+    title: 'Java',
+    competency: 3,
+    category: ['Languages'],
+  },
+  {
+    title: 'Git',
+    competency: 4,
+    category: ['Tools'],
+  },
+  {
+    title: 'MongoDB',
+    competency: 1,
+    category: ['Web Development', 'Databases', 'Javascript'],
+  },
+  {
+    title: 'iOS App Development',
+    competency: 2,
+    category: ['Mobile'],
+  },
+  {
+    title: 'Android App Development',
+    competency: 1,
+    category: ['Mobile'],
+  },
+  {
+    title: 'C#',
+    competency: 1,
     category: ['Languages'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
