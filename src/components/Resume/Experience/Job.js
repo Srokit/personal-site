@@ -9,7 +9,14 @@ const Job = ({ data }) => (
     </header>
     <ul className="points">
       {data.points.map((point) => (
-        <li key={point}>{point}</li>
+        <li key={point.point}>
+          <p>{point.point}</p>
+          <ul>
+            {point.subpoints && point.subpoints.map((subpoint) => (
+              <li className="subpoint" key={subpoint}>{subpoint}</li>
+            ))}
+          </ul>
+        </li>
       ))}
     </ul>
   </article>
