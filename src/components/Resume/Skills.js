@@ -73,6 +73,12 @@ class Skills extends Component {
         <div className="link-to" id="skills" />
         <div className="title">
           <h3>Skills</h3>
+          <p>Here&apos;s a list of my skills with relative competency levels
+          </p>
+          <p>
+            5 does not mean I&apos;m an &quot;expert&quot; it just means I
+            am very confident working that technology :)
+          </p>
         </div>
         <div className="skill-button-container">
           {this.getButtons()}
