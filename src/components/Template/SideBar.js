@@ -17,6 +17,8 @@ const copySidebarEmail = () => {
   document.execCommand('copy');
   const copied = window.getSelection().toString();
   window.getSelection().removeAllRanges();
+  // The linter doesn't like alerts
+  // eslint-disable-next-line
   alert(`${copied} copied to clipboard.`);
 };
 
@@ -46,7 +48,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Stan Rokita<Link to="/">stansa.dev</Link>.</p>
+      <p className="copyright">&copy; Stan Rokita <Link to="/">stansa.dev</Link>.</p>
     </section>
   </section>
 );
