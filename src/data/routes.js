@@ -5,7 +5,7 @@ const routes = [
     path: '/',
   },
   {
-    label: 'About',
+    label: '$(whoami)',
     path: '/about',
   },
   {
