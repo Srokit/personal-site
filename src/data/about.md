@@ -24,10 +24,10 @@ I met lots of friends and learned a lot. I Was challenged through mostly hands o
 
 # Fun Facts
 
-- I will show you where anything is in Michigan by pointing to my hand
-- I once called myself "smart" Stan when asked to come up with an alliteration of my name as an ice breaker (super humble)
-- I sometimes bob my head to music coming out of my headphones in public settings
-- Apples are my favorite food/meal/anything
+- I will show you where anything is in Michigan by pointing to my hand.
+- I once called myself "smart" Stan when asked to come up with an alliteration of my name as an ice breaker (super humble).
+- I sometimes bob my head to music coming out of my headphones in public settings.
+- Apples are my favorite food/meal/anything.
 
 # Hobbies
 
