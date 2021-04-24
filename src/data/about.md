@@ -6,23 +6,21 @@ I work remotely out of Ann Arbor, MI but my office in Mountain View, CA. I am wo
 # Recent Past
 
 Before working at Google I worked for ServiceNow as an engineering intern. It was my first bay area job so I was super stoked. I worked with a team of interns to prototype a application that would help ServiceNow's clients track the usage and upsell potential of their own customers. We built the app using react and a custom server side framework.
-
+________
 Before that I worked a summer at Nexteer Automotive where I built an Android application that allows other engineers to collect diagnostic data about the car part under test. I was also briefly exposed to C# scripting.
-
+_______
 Since the summer after my sophomore year of college, I worked for the Computer-Aided Engineering Network at the Univeristy of Michigan. I started by building a few dashboards for them using the elasticsearch framework to track stats about computer lab usage. Over the remainder of my time I worked on flask web apps that managed internal processes for the staff of the College of Engineering.
 
 # Ancient History
 
 I was born in Dallas, TX but raised in Saginaw, MI. I'm the youngest of 5 kids.
-
+_______
 I have been coding since I was about 13 when I found out that you can make video games on your computer. So naturally I copied python pygame scripts onto my computer and ran them myself (which blew my mind that it actually worked the same way I saw in the youtube video).
-
+_______
 Through high school I kept coding as a hobby and checked out lots of other languages and started and stopped lots of ideas. Some of those are still on my github.
-
 Summer before senior year of high school I went to a coding camp at the Illinois Institute of Technology in Chicago where I learned PHP and web development for the first time and got to visit lots of tech offices in the city.
-
 Senior year of high school I convinced my academic advisor to let me do a self guided AP Computer Science class since we didn't have one.
-
+______
 I started undergrad at the University of Michigan where I didn't have much trouble picking CS as a major (wish I could say the same for finishing it).
 I met lots of friends and learned a lot. I Was challenged through mostly hands on project based learning and coded many lines of C++.
 
