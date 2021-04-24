@@ -5,6 +5,21 @@ import ContactIcons from '../Contact/ContactIcons';
 
 const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
 
+const sideBarEmailId = 'sidebarEmail';
+
+const copySidebarEmail = () => {
+  // Shout out: https://stackoverflow.com/questions/49247129/javascript-copy-p-tag-with-html-format-to-clipbord/49247263
+  const from = document.getElementById(sideBarEmailId);
+  const range = document.createRange();
+  window.getSelection().removeAllRanges();
+  range.selectNode(from);
+  window.getSelection().addRange(range);
+  document.execCommand('copy');
+  const copied = window.getSelection().toString();
+  window.getSelection().removeAllRanges();
+  alert(`${copied} copied to clipboard.`);
+};
+
 const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
@@ -13,7 +28,8 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Stan Rokita</h2>
-        <p><a href="mailto:stan@stansa.dev">stan@stansa.dev</a></p>
+        <p id="sidebarEmailContainer"><a href="mailto:stan@stansa.dev" id={sideBarEmailId}>stan@stansa.dev</a></p>
+        <button type="button" onClick={copySidebarEmail}>Copy</button>
       </header>
     </section>
 
