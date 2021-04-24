@@ -15,6 +15,9 @@ const Index = () => (
             A beautiful, responsive, statically-generated,
             react application written with modern Javascript.
           </p>
+          <p>
+            This website is under construction at the moment... &apos;Scuse my dust.
+          </p>
         </div>
       </header>
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
