@@ -17,16 +17,14 @@ I was born in Dallas, TX but raised in Saginaw, MI. I'm the youngest of 5 kids.
 _______
 I have been coding since I was about 13 when I found out that you can make video games on your computer. So naturally I copied python pygame scripts onto my computer and ran them myself (which blew my mind that it actually worked the same way I saw in the youtube video).
 _______
-Through high school I kept coding as a hobby and checked out lots of other languages and started and stopped lots of ideas. Some of those are still on my github.
-Summer before senior year of high school I went to a coding camp at the Illinois Institute of Technology in Chicago where I learned PHP and web development for the first time and got to visit lots of tech offices in the city.
-Senior year of high school I convinced my academic advisor to let me do a self guided AP Computer Science class since we didn't have one.
+Throughout high school I kept coding as a hobby and checked out lots of other languages and started and stopped lots of ideas. Some of those are still on my github. Summer before senior year of high school I went to a coding camp at the Illinois Institute of Technology in Chicago where I learned PHP and web development for the first time and got to visit lots of tech offices in the city. Senior year of high school I convinced my academic advisor to let me do a self guided AP Computer Science class since we didn't have one.
 ______
 I started undergrad at the University of Michigan where I didn't have much trouble picking CS as a major (wish I could say the same for finishing it).
 I met lots of friends and learned a lot. I Was challenged through mostly hands on project based learning and coded many lines of C++.
 
 # Fun Facts
 
-- I will show you where anything is in Michigan by pointing on to hand
+- I will show you where anything is in Michigan by pointing to my hand
 - I once called myself "smart" Stan when asked to come up with an alliteration of my name as an ice breaker (super humble)
 - I sometimes bob my head to music coming out of my headphones in public settings
 - Apples are my favorite food/meal/anything
