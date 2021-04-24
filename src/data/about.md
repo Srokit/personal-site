@@ -29,7 +29,7 @@ I started undergrad at the University of Michigan where I didn't have much troub
 
 # Fun Facts
 
-- I will show you where anything is in Michigan by pointing on my hand
+- I will show you where anything is in Michigan by pointing on to hand
 - I once called myself "smart" Stan when asked to come up with an alliteration of my name as an ice breaker (super humble)
 - I sometimes bob my head to music coming out of my headphones in public settings
 - Apples are my favorite food/meal/anything
