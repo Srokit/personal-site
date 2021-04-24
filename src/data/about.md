@@ -24,8 +24,7 @@ Summer before senior year of high school I went to a coding camp at the Illinois
 Senior year of high school I convinced my academic advisor to let me do a self guided AP Computer Science class since we didn't have one.
 
 I started undergrad at the University of Michigan where I didn't have much trouble picking CS as a major (wish I could say the same for finishing it).
-
-... and that's pretty much the jist of me.
+I met lots of friends and learned a lot. I Was challenged through mostly hands on project based learning and coded many lines of C++.
 
 # Fun Facts
 
